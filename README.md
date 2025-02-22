@@ -4,6 +4,8 @@ Este repositório contém uma coleção de **10 exercícios práticos em C#**, f
 
 ## 📌 Conteúdo
 
+Exercicios localizado no arquivo .txt
+
 1. **Valores negativos e média** - Exibir valores negativos e calcular a média dos menores que zero.
 2. **Quadrado dos números** - Armazenar números reais e calcular seus quadrados.
 3. **Soma de posições** - Somar os valores de duas posições escolhidas pelo usuário.
